@@ -1,0 +1,12 @@
+Ngày 23/10/2022:
+Hoàn thành code DFS/BFS của hai bài WATERSORT và BLOXORZ
+Hoàn thành một phần của A* cho WATER SORT và Genetic Algorithm cho BLOXORZ
+Viết báo cáo cho các code DFS/BFS của hai trò chơi
+Ngày 30/10/2022
+Hoàn thành code của A* cho WATER SORT và Genetic Algorithm cho BLOXORZ
+Hoàn thành việc viết báo cáo còn lại cho cả hai bài  WATER SORT và BLOXORZ
+Ngày 2/10/2022
+Kiểm tra lại, chơi thử và tìm lỗi sai của các giải thuật
+
+GIAO DIỆN CỦA GAME THỐNG NHẤT VỚI NHAU SẼ DÙNG PYGAME ĐỂ HIỆN THỰC.
+NHỚ COMMENT, GIẢI THÍCH VÀ CHIA CODE RÕ RÀNG, HỢP LÝ KHI HIỆN THỰC 
